@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World, I am Bowrna 👋
 
 <!--
 **Bowrna/Bowrna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:microscope: I'm currently working on microservices in Python that helps to onboard clients quickly for Vue.ai
