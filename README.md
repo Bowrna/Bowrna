@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* :microscope: I'm currently working on microservices in Python that helps to onboard clients quickly for Vue.ai
-* :seedling: Learning about how machine learning works and math behind it.
+* :microscope: I'm currently working on data pipeline monitoring tool in Python that helps customers of Unravel Data
+* :seedling: Contributing to Open Source in small ways and proud to be part of its community
 * :mailbox: Reach out to me in email: mailbowrna at gmail dot com
 * :bulb: My Interests includes tinkering with ideas at hand, building small apps, reading books
