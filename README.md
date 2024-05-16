@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * :microscope: I'm currently working on data pipeline monitoring tool in Python that helps customers of Unravel Data
-* :seedling: Contributing to Open Source in small ways and proud to be part of its community
+* :seedling: Contributing to Open Source  and proud to be part of its community
 * :mailbox: Reach out to me in email: mailbowrna at gmail dot com
-* :bulb: My Interests includes tinkering with ideas at hand, building small apps, reading books
+* :bulb: My Interests includes tinkering with ideas at hand, building apps, reading books
